@@ -46,7 +46,11 @@ Desarrollador Full Stack | Apasionado por el desarrollo web y la nube
 
 ---
 
-
+## Certifications:
+<div>
+  <img src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-azure-developer-associate.png" style="width:150px">
+  <img src="https://images.credly.com/size/340x340/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png" style="width: 150px">
+</div>
 
 
 ## 🚦 Contador de visitas
