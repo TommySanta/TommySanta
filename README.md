@@ -1,94 +1,70 @@
-<h1 align="center">¡Hola! 👋 Soy Tomás Santamaría</h1>
-<h3 align="center">Desarrollador Full Stack & Cloud | Microsoft PL-400 | Apasionado por crear soluciones reales con tecnología</h3>
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=TommySanta.TommySanta" alt="visitor badge"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrollador+Full+Stack+%2B+Multicloud;Especializado+en+ASP.NET%2C+Angular+y+AWS;Siempre+aprendiendo+y+creciendo💡" alt="Typing SVG" />
-</p>
+# Hola, soy Tomás Santamaría 👋
+
+Soy un desarrollador Full Stack apasionado por crear soluciones web modernas y eficientes.  
+Actualmente estudiando y especializándome en desarrollo web Fullstack y multicloud.  
 
 ---
 
-### 📌 Sobre mí
+## 🔭 Sobre mí
 
-🎓 Soy desarrollador Full Stack con formación técnica sólida y certificaciones oficiales en tecnologías Microsoft y Cloud.  
-🚀 Apasionado por crear aplicaciones web y móviles con un enfoque profesional, colaborativo y orientado a resultados.  
-🎯 Busco seguir creciendo en un entorno técnico donde aportar valor, trabajar en equipo y seguir aprendiendo día a día.
-
----
-
-### 🧰 Tech Stack
-
-#### 👨‍💻 Lenguajes
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-#### 🧩 Frameworks y Librerías
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-#### 💾 Bases de Datos
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-
-#### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-1A73E8?style=for-the-badge&logo=azure-devops&logoColor=white)
+- Apasionado por el desarrollo de aplicaciones web y móviles.  
+- Me gusta aprender nuevas tecnologías y mejorar continuamente.  
+- Busco colaborar en proyectos innovadores y crecer profesionalmente.  
+- Interesado en el mundo cloud, DevOps y la Inteligencia Artificial.  
 
 ---
 
-### 🏆 Certificaciones
+## 🚀 Tecnologías y Skills
 
-| Certificación | Plataforma | Estado |
-|---------------|------------|--------|
-| **PL-400: Power Platform Developer** | Microsoft | ✅ Obtenida |
-| **AZ-204: Developing Solutions for Azure** | Microsoft | ✅ Obtenida |
-| **AWS DVA-C02: Developer Associate** | Amazon | 🔜 Junio 2025 |
-| **B2 Inglés** | Cambridge/Other | 🔜 En progreso |
+### Lenguajes de programación  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
----
+### Frameworks, Librerías y Plataformas  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)  
 
-### 🔥 GitHub Stats & Lenguajes
+### Bases de datos  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 
-<div align="center">
+### Herramientas y Tecnologías  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)  
 
-<a href="https://github.com/TommySanta">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TommySanta&show_icons=true&theme=radical&hide_title=true&count_private=true" />
-</a>
-
-<a href="https://github.com/TommySanta">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommySanta&layout=compact&theme=radical&langs_count=8&hide_title=true" />
-</a>
-
-</div>
-
----
-
-### 🚀 Proyectos Destacados
-
-🧭 [**Portfolio personal en React + Tailwind** (Azure)](https://blue-pebble-019d55e03.6.azurestaticapps.net/)  
-📰 Blog ASP.NET MVC con panel de administración, roles y CKEditor  
-🛒 Tienda online con carrito en sesión y gestión de pedidos  
-📲 App móvil para datáfonos usando Kotlin + AWS  
-
----
-
-### 📫 Conecta conmigo
-
-<p align="center">
-  <a href="mailto:tomas.antamaria.benito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tomás-santamaría-benito/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://blue-pebble-019d55e03.6.azurestaticapps.net/"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
-</p>
+### IDEs y Editores  
+![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=flat-square&logo=jetbrains&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=pycharm&logoColor=white&color=green)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
 
 ---
 
-> “No hay límites para quien no deja de aprender y construir.”
+## 📫 Cómo contactarme  
+
+- [LinkedIn](https://www.linkedin.com/in/tomassantamaria)  
+- [GitHub](https://github.com/tomassantamaria)  
+- [Twitter](https://twitter.com/tomassantamaria)  
+- [Correo electrónico](mailto:tomassantamaria@example.com)  
+
+---
+
+## 📈 Estadísticas de GitHub
+
+| <a href="https://github.com/tomassantamaria"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tomassantamaria&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Tomás Santamaría GitHub Stats" /></a> | <a href="https://github.com/tomassantamaria"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomassantamaria&layout=compact&theme=dark&hide_border=true" /></a> |
+
 
