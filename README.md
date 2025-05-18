@@ -3,24 +3,40 @@
 Desarrollador Full Stack | Apasionado por el desarrollo web y la nube 
 
 
+
 > ⚡ _"La tecnología cambia rápido, pero la pasión por aprender y mejorar es lo que marca la diferencia."_
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TommySanta&theme=radical&hide_border=true" alt="GitHub Streak" />
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://www.linkedin.com/pulse/integraci%C3%B3n-continua-principios-solid-y-despliegue-mi-tom%C3%A1s-0ldsf/?trackingId=leWEw1K3PTzl32U47oennA%3D%3D">
+        <img src="https://media.licdn.com/dms/image/v2/D4D12AQGkNtmXdWI4fQ/article-inline_image-shrink_1500_2232/B4DZaiMkt6G8AU-/0/1746477927669?e=1753315200&v=beta&t=hfBwOERAQuGIVMc2CGwqOn7uQ4wCC1aE3RDBufNptvU" width="100%" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommySanta&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+
+  ## 📫 Contacto
+
+  - ✉️ **Email**: tomas.antamaria.benito@gmail.com  
+  - 💼 [**LinkedIn**](https://www.linkedin.com/in/tomás-santamaría-benito/)  
+  - 🌐 [**Portfolio Web**](https://blue-pebble-019d55e03.6.azurestaticapps.net/)  
+## Certifications:
+<div>
+  <img src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-azure-developer-associate.png" style="width:150px">
+  <img src="https://images.credly.com/size/340x340/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png" style="width: 150px">
+</div>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="mailto:tomas.antamaria.benito@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tomás-santamaría-benito/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://blue-pebble-019d55e03.6.azurestaticapps.net/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
-
----
-## 📫 Contacto
-
-- ✉️ **Email**: tomas.antamaria.benito@gmail.com  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/tomás-santamaría-benito/)  
-- 🌐 [**Portfolio Web**](https://blue-pebble-019d55e03.6.azurestaticapps.net/)  
-
----
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -46,25 +62,9 @@ Desarrollador Full Stack | Apasionado por el desarrollo web y la nube
 
 ---
 
-## Certifications:
-<div>
-  <img src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-azure-developer-associate.png" style="width:150px">
-  <img src="https://images.credly.com/size/340x340/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png" style="width: 150px">
-</div>
-
-
 ## 🚦 Contador de visitas
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=TommySanta&color=brightgreen)
 
----
 
-
-<p align="center">
-  <a href="mailto:tomas.antamaria.benito@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tomás-santamaría-benito/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://blue-pebble-019d55e03.6.azurestaticapps.net/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
-</p>
-
----
 
