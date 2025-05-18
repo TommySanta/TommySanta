@@ -1,70 +1,66 @@
-# Hola, soy Tomás Santamaría 👋
+# 👋 Hola, soy TommySanta
 
-Soy un desarrollador Full Stack apasionado por crear soluciones web modernas y eficientes.  
-Actualmente estudiando y especializándome en desarrollo web Fullstack y multicloud.  
+Desarrollador Full Stack | Apasionado por el desarrollo web y la nube 
+
+
+> ⚡ _"La tecnología cambia rápido, pero la pasión por aprender y mejorar es lo que marca la diferencia."_
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TommySanta&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommySanta&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+## 📫 Contacto
+
+- ✉️ **Email**: tomas.antamaria.benito@gmail.com  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/tomás-santamaría-benito/)  
+- 🌐 [**Portfolio Web**](https://blue-pebble-019d55e03.6.azurestaticapps.net/)  
 
 ---
 
-## 🔭 Sobre mí
+## 🛠️ Tecnologías y Herramientas
 
-- Apasionado por el desarrollo de aplicaciones web y móviles.  
-- Me gusta aprender nuevas tecnologías y mejorar continuamente.  
-- Busco colaborar en proyectos innovadores y crecer profesionalmente.  
-- Interesado en el mundo cloud, DevOps y la Inteligencia Artificial.  
+### Lenguajes
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🚀 Tecnologías y Skills
+### Frameworks y Librerías
 
-### Lenguajes de programación  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Frameworks, Librerías y Plataformas  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)  
+### Cloud y DevOps
 
-### Bases de datos  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Herramientas y Tecnologías  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)  
+### Bases de Datos
 
-### IDEs y Editores  
-![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=flat-square&logo=jetbrains&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=pycharm&logoColor=white&color=green)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### IDEs y Editores
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ---
 
-## 📫 Cómo contactarme  
 
-- [LinkedIn](https://www.linkedin.com/in/tomassantamaria)  
-- [GitHub](https://github.com/tomassantamaria)  
-- [Twitter](https://twitter.com/tomassantamaria)  
-- [Correo electrónico](mailto:tomassantamaria@example.com)  
+
+
+## 🚦 Contador de visitas
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=TommySanta&color=brightgreen)
 
 ---
 
-## 📈 Estadísticas de GitHub
 
-| <a href="https://github.com/tomassantamaria"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tomassantamaria&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Tomás Santamaría GitHub Stats" /></a> | <a href="https://github.com/tomassantamaria"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomassantamaria&layout=compact&theme=dark&hide_border=true" /></a> |
+<p align="center">
+  <a href="mailto:tomas.antamaria.benito@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tomás-santamaría-benito/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://blue-pebble-019d55e03.6.azurestaticapps.net/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
+</p>
 
+---
 
