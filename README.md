@@ -1,115 +1,92 @@
-<h1 align="center">¡Hola! Soy Tomás Santamaría 👋</h1>
-<h3 align="center">Desarrollador Full Stack & Multicloud | Apasionado por la tecnología, los retos y el crecimiento constante</h3>
+<h1 align="center">¡Hola! 👋 Soy Tomás Santamaría</h1>
+<h3 align="center">Desarrollador Full Stack & Cloud | Microsoft PL-400 | Apasionado por crear soluciones reales con tecnología</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TommySanta&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrollador+Full+Stack+%2B+Multicloud;Especializado+en+ASP.NET%2C+Angular+y+AWS;Siempre+aprendiendo+y+creciendo💡" alt="Typing SVG" />
 </p>
 
 ---
 
-🎯 **Sobre mí**
+### 📌 Sobre mí
 
-Soy un desarrollador **Full Stack & Multicloud** con formación sólida y certificaciones técnicas que avalan mi compromiso con la excelencia. Me encanta enfrentarme a nuevos retos y trabajar en proyectos reales que impactan a las personas. Busco crecer en un entorno donde pueda seguir aprendiendo, aportar valor y colaborar con un gran equipo.
-
-- 💼 **Formación técnica**:
-  - Grado Medio en SMR
-  - Grados Superiores en DAM y DAW
-  - Máster en Desarrollo Web **Full Stack + Multicloud** (Tajamar)
-
-- 🌐 **Tecnologías que domino**:
-  - **Frontend**: Angular, React, Tailwind CSS, Bootstrap
-  - **Backend**: ASP.NET MVC, Node.js, Express
-  - **Bases de Datos**: SQL Server, MongoDB, DynamoDB
-  - **Cloud**: AWS, Azure
-  - **Lenguajes**: C#, JavaScript, TypeScript, Kotlin
-
-- 📜 **Certificaciones**:
-  - ✅ PL-400: Power Platform Developer (Microsoft)
-  - ✅ AZ-204: Developing Solutions for Microsoft Azure
-  - 🔜 Preparando AWS Certified Developer – Associate (DVA-C02)
-
-- 🔧 También tengo experiencia en:
-  - Git & GitHub
-  - CI/CD
-  - QA Testing
-  - Scrum y metodologías ágiles
+🎓 Soy desarrollador Full Stack con formación técnica sólida y certificaciones oficiales en tecnologías Microsoft y Cloud.  
+🚀 Apasionado por crear aplicaciones web y móviles con un enfoque profesional, colaborativo y orientado a resultados.  
+🎯 Busco seguir creciendo en un entorno técnico donde aportar valor, trabajar en equipo y seguir aprendiendo día a día.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+### 🧰 Tech Stack
 
-### Lenguajes de Programación
+#### 👨‍💻 Lenguajes
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Frontend
-
+#### 🧩 Frameworks y Librerías
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Backend
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Bases de Datos
-
+#### 💾 Bases de Datos
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-1A73E8?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ---
 
-## 📜 Certificaciones
+### 🏆 Certificaciones
 
-![PL-400](https://img.shields.io/badge/PL--400-Power_Platform_Developer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AZ-204](https://img.shields.io/badge/AZ--204-Developing_Solutions_for_Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS DVA-C02](https://img.shields.io/badge/AWS_Developer_Associate-DVA--C02-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 🚀 Proyectos Destacados
-
-- 🧭 [Portfolio personal en React (hosted on Azure)](https://blue-pebble-019d55e03.6.azurestaticapps.net/)
-- 📚 Proyecto blog ASP.NET MVC con CKEditor, sistema de roles y seguridad
-- 🛒 Tienda MVC con carrito de compras usando Session y SQL Server
-- 📱 Aplicaciones móviles con Kotlin + AWS (para datáfonos y gestión de pagos)
+| Certificación | Plataforma | Estado |
+|---------------|------------|--------|
+| **PL-400: Power Platform Developer** | Microsoft | ✅ Obtenida |
+| **AZ-204: Developing Solutions for Azure** | Microsoft | ✅ Obtenida |
+| **AWS DVA-C02: Developer Associate** | Amazon | 🔜 Junio 2025 |
+| **B2 Inglés** | Cambridge/Other | 🔜 En progreso |
 
 ---
 
-## 📊 Estadísticas de GitHub
+### 🔥 GitHub Stats & Lenguajes
+
+<div align="center">
+
+<a href="https://github.com/TommySanta">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TommySanta&show_icons=true&theme=radical&hide_title=true&count_private=true" />
+</a>
+
+<a href="https://github.com/TommySanta">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommySanta&layout=compact&theme=radical&langs_count=8&hide_title=true" />
+</a>
+
+</div>
+
+---
+
+### 🚀 Proyectos Destacados
+
+🧭 [**Portfolio personal en React + Tailwind** (Azure)](https://blue-pebble-019d55e03.6.azurestaticapps.net/)  
+📰 Blog ASP.NET MVC con panel de administración, roles y CKEditor  
+🛒 Tienda online con carrito en sesión y gestión de pedidos  
+📲 App móvil para datáfonos usando Kotlin + AWS  
+
+---
+
+### 📫 Conecta conmigo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TommySanta&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TommySanta&theme=radical" alt="streak" />
-</p>
-
----
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="mailto:tomas.antamaria.benito@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:tomas.antamaria.benito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tomás-santamaría-benito/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://blue-pebble-019d55e03.6.azurestaticapps.net/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
+  <a href="https://blue-pebble-019d55e03.6.azurestaticapps.net/"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
 
 ---
 
-⚡ _"La tecnología cambia rápido, pero la pasión por aprender y mejorar es lo que marca la diferencia."_
+> “No hay límites para quien no deja de aprender y construir.”
+
