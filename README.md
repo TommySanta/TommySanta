@@ -1,6 +1,8 @@
 <h1 align="center">¡Hola! 👋 Soy Tomás Santamaría</h1>
 <h3 align="center">Desarrollador Full Stack & Cloud | Microsoft PL-400 | Apasionado por crear soluciones reales con tecnología</h3>
-
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=TommySanta.TommySanta" alt="visitor badge"/>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrollador+Full+Stack+%2B+Multicloud;Especializado+en+ASP.NET%2C+Angular+y+AWS;Siempre+aprendiendo+y+creciendo💡" alt="Typing SVG" />
 </p>
