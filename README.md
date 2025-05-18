@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Tomás Santamaría 👋</h1>
-<h3 align="center">Desarrollador Full Stack & Multicloud | Apasionado por la tecnología, los retos y el crecimiento constante</h3>
+<h3 align="center">Desarrollador Full Stack & Multicloud | Apasionado por la tecnología y los retos constantes</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TommySanta&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,67 +7,83 @@
 
 ---
 
-🎯 **Sobre mí**
+## 🎯 Sobre mí
 
-Soy un desarrollador **Full Stack & Multicloud** con formación sólida y certificaciones técnicas que avalan mi compromiso con la excelencia. Me encanta enfrentarme a nuevos retos y trabajar en proyectos reales que impactan a las personas. Busco crecer en un entorno donde pueda seguir aprendiendo, aportar valor y colaborar con un gran equipo.
+Soy un desarrollador **Full Stack & Multicloud** con una sólida formación técnica, experiencia práctica en proyectos reales y una fuerte motivación por seguir aprendiendo y creciendo profesionalmente.
 
-- 💼 **Formación técnica**:
-  - Grado Medio en SMR
-  - Grados Superiores en DAM y DAW
-  - Máster en Desarrollo Web **Full Stack + Multicloud** (Tajamar)
-
-- 🌐 **Tecnologías que domino**:
-  - **Frontend**: Angular, React, Tailwind CSS, Bootstrap
-  - **Backend**: ASP.NET MVC, Node.js, Express
-  - **Bases de Datos**: SQL Server, MongoDB, DynamoDB
-  - **Cloud**: AWS, Azure
-  - **Lenguajes**: C#, JavaScript, TypeScript, Kotlin
-
-- 📜 **Certificaciones**:
-  - ✅ PL-400: Power Platform Developer (Microsoft)
-  - ✅ AZ-204: Developing Solutions for Microsoft Azure
-  - 🔜 Preparando AWS Certified Developer – Associate (DVA-C02)
-
-- 🔧 También tengo experiencia en:
-  - Git & GitHub
-  - CI/CD
-  - QA Testing
-  - Scrum y metodologías ágiles
+🔎 Me defino por ser curioso, resolutivo y orientado al trabajo en equipo. Disfruto de los desafíos y busco oportunidades donde pueda aportar valor y seguir evolucionando.
 
 ---
 
-🧠 **¿Por qué elegirme?**
-- Porque tengo una **formación completa** y me sigo actualizando cada día.
-- Porque he trabajado con equipos y sé lo importante que es **comunicar, colaborar y adaptarse**.
-- Porque **me apasiona** el desarrollo web y busco proyectos donde pueda crecer **a largo plazo**.
-- Porque siempre doy **el 100%**, y lo que no sé, ¡lo aprendo rápido!
+## 💼 Formación
+
+- 🎓 Grado Medio en Sistemas Microinformáticos y Redes (SMR)
+- 💻 Grados Superiores en Desarrollo de Aplicaciones Multiplataforma (DAM) y Web (DAW)
+- ☁️ Máster en Desarrollo Web **Full Stack + Multicloud** (Tajamar)
 
 ---
 
-🚀 **Proyectos destacados**
-- 🧭 [Portfolio personal en React (hosted on Azure)](https://blue-pebble-019d55e03.6.azurestaticapps.net/)  
-- 📚 Proyecto blog ASP.NET MVC con CKEditor, sistema de roles y seguridad  
-- 🛒 Tienda MVC con carrito de compras usando Session y SQL Server  
-- 📱 Aplicaciones móviles con Kotlin + AWS (para datáfonos y gestión de pagos)
+## 🛠️ Tecnologías
+
+### Frontend
+- Angular | React | Tailwind CSS | Bootstrap
+
+### Backend
+- ASP.NET MVC | Node.js | Express
+
+### Bases de Datos
+- SQL Server | MongoDB | DynamoDB
+
+### Cloud & DevOps
+- AWS | Azure | Git & GitHub | CI/CD
+
+### Lenguajes
+- C# | JavaScript | TypeScript | Kotlin
 
 ---
 
-📊 **Estadísticas de GitHub**
+## 📜 Certificaciones
+
+- ✅ [PL-400: Power Platform Developer (Microsoft)](https://learn.microsoft.com/en-us/certifications/power-platform-developer/)
+- ✅ [AZ-204: Developing Solutions for Microsoft Azure](https://learn.microsoft.com/en-us/certifications/azure-developer/)
+- 🔄 En preparación: **AWS Certified Developer – Associate (DVA-C02)**
+
+---
+
+## 💡 ¿Por qué elegirme?
+
+- ✨ Formación técnica completa y en constante evolución
+- 🤝 Trabajo en equipo, comunicación efectiva y actitud positiva
+- 🚀 Experiencia con proyectos reales y buenas prácticas de desarrollo
+- 📈 Comprometido con el aprendizaje continuo y la mejora constante
+
+---
+
+## 🚀 Proyectos destacados
+
+- 🧭 [**Portfolio en React (Azure Hosting)**](https://blue-pebble-019d55e03.6.azurestaticapps.net/)
+- 📝 Blog ASP.NET MVC con CKEditor, sistema de roles y control de publicaciones
+- 🛒 Tienda online en ASP.NET MVC con carrito de compras (Session + SQL Server)
+- 📱 Aplicaciones móviles con Kotlin integradas con AWS para gestión de pagos
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TommySanta&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TommySanta&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TommySanta&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TommySanta&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-📫 **Contacto**
+## 📫 Contacto
 
-- 📧 Email: tomas.antamaria.benito@gmail.com 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tomás-santamaría-benito/)  
-- 🌐 [Portfolio Web](https://blue-pebble-019d55e03.6.azurestaticapps.net/)
+- ✉️ **Email**: tomas.antamaria.benito@gmail.com  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/tomás-santamaría-benito/)  
+- 🌐 [**Portfolio Web**](https://blue-pebble-019d55e03.6.azurestaticapps.net/)
 
 ---
 
-⚡ _"La tecnología cambia rápido, pero la pasión por aprender y mejorar es lo que marca la diferencia."_  
+> ⚡ _"La tecnología cambia rápido, pero la pasión por aprender y mejorar es lo que marca la diferencia."_
